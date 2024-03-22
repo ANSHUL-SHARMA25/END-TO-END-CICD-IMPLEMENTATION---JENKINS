@@ -10,8 +10,8 @@ This is a MVC architecture based application where controller returns a page wit
 Checkout the repo and move to the directory
 
 ```
-git clone https://github.com/iam-veeramalla/Jenkins-Zero-To-Hero/java-maven-sonar-argocd-helm-k8s/sprint-boot-app
-cd java-maven-sonar-argocd-helm-k8s/sprint-boot-app
+git clone https://github.com/ANSHUL-SHARMA25/END-TO-END-CICD-IMPLEMENTATION---JENKINS.git/app
+
 ```
 
 Execute the Maven targets to generate the artifacts
@@ -29,7 +29,7 @@ The above maven target stroes the artifacts to the `target` directory. You can e
 ### Execute locally (Java 11 needed) and access the application on http://localhost:8080
 
 ```
-java -jar target/spring-boot-web.jar
+java -jar target/web.jar
 ```
 
 ### The Docker way
