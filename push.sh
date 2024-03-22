@@ -2,7 +2,7 @@
 
 git init
 git add .
-git commit -m "first commit"
+git commit -m " commit"
 git branch -M main
 git remote add origin https://github.com/ANSHUL-SHARMA25/END-TO-END-CICD-IMPLEMENTATION---JENKINS.git
 git push -u origin main
