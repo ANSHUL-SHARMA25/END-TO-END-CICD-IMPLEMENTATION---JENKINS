@@ -10,7 +10,7 @@ This is a MVC architecture based application where controller returns a page wit
 Checkout the repo and move to the directory
 
 ```
-git clone https://github.com/ANSHUL-SHARMA25/END-TO-END-CICD-IMPLEMENTATION---JENKINS.git/app
+git clone https://github.com/ANSHUL-SHARMA25/END-TO-END-CICD-IMPLEMENTATION---JENKINS.git/spring-boot-app
 
 ```
 
